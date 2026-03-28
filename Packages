@@ -1,14 +1,14 @@
 Package: com.teamph.autofarmagent
-Version: 0.0.14-1+debug
+Version: 0.0.16-1+debug
 Architecture: iphoneos-arm
 Maintainer: Thanh Tran
-Installed-Size: 352
+Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.teamph.autofarmagent_0.0.14-1+debug_iphoneos-arm.deb
-Size: 17884
-MD5sum: 0f8e7957747d774a6142a81da8bcb984
-SHA1: a12e8f7c9f8ca219aa42e5643e252d05502e5eff
-SHA256: 1a97a0f6ce544d54cea384f6a1c72c3f756fb184f37deee0974bb7b6957d4ebc
+Filename: ./debs/com.teamph.autofarmagent_0.0.16-1+debug_iphoneos-arm.deb
+Size: 20880
+MD5sum: fb9632ffeea5ca381e86d6391ad97009
+SHA1: 8cc0821ce71a66519f79da0ff10008523ab746b6
+SHA256: 6f939e8e518ed3ba5d8ccbf65731a0f61ef44517e010b99d22dd8361f41e44a7
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Thanh Tran
